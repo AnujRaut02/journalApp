@@ -1,11 +1,17 @@
 C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\controller\UserController.java
 C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\service\UserDetailServiceImpl.java
 C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\service\JournalEntryService.java
+C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\api\response\WeatherResponse.java
 C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\entity\User.java
 C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\repository\JournalEntryRepository.java
+C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\repository\ConfigJournalAppRepository.java
+C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\constant\PlaceHolders.java
+C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\entity\ConfigJournalAppEntity.java
 C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\controller\AdminController.java
 C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\service\UserService.java
+C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\cache\AppCache.java
 C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\repository\UserRepository.java
+C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\service\WeatherService.java
 C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\controller\PublicController.java
 C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\controller\JournalEntryContoller.java
 C:\Users\rauta\OneDrive\Documents\SPRING PROJECTS\BACKEND PROJECTS\journalApp\src\main\java\net\engineeringdigest\journalApp\entity\JournalEntry.java

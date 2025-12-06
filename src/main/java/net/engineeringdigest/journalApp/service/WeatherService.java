@@ -1,6 +1,5 @@
 package net.engineeringdigest.journalApp.service;
 
-import jdk.nashorn.internal.ir.LexicalContext;
 import net.engineeringdigest.journalApp.api.response.WeatherResponse;
 import net.engineeringdigest.journalApp.cache.AppCache;
 import net.engineeringdigest.journalApp.constant.PlaceHolders;
